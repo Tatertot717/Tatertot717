@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NGINX**
 
-- 👨‍💻 All of my projects and resume are available at [<a href="https://tatejsmith.com" target="_blank" rel="noopener noreferrer">tatejsmith.com</a>](https://www.tatejsmith.com)
+- 👨‍💻 All of my projects and resume are available at [<a href="https://tatejsmith.com" target="_blank" rel="noopener noreferrer">tatejsmith.com</a>]
 
 - 💬 Ask me about **turboretroencabulators**
 

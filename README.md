@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NGINX**
 
-- 👨‍💻 All of my projects and resume are available at [tatejsmith.com](tatejsmith.com)
+- 👨‍💻 All of my projects and resume are available at [www.tatejsmith.com](www.tatejsmith.com)
 
 - 💬 Ask me about **turboretroencabulators**
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **College**
 
-- 🌱 I’m currently learning **NGINX**
+- 🌱 I’m currently learning **C# & NGINX**
 
 - 👨‍💻 All of my projects and resume are available at <a href="https://tatejsmith.com" target="_blank" rel="noopener noreferrer">tatejsmith.com</a>
 

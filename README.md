@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **turboretroencabulators**
 
-- 📫 How to reach me **tatejsmith@bellsouth.com**
+- 📫 How to reach me **tate@tatejsmith.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
